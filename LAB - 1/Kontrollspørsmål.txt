@@ -1,0 +1,22 @@
+Kontrollspørsmål:
+
+
+0) Javascript er et programmeringsspråk som kan skrives for å skape dynamikk til en eller flere websider. Javaskript kan kjøres på alle mulige moderne webapplikasjoner. Dette er også lett å lære.
+
+
+1) Forskjellen på id og class er at  klasser kan brykes flere ganger som en funksjon men ID kan bare brukes en gang, skal man ha en ny må man skrive en ny id.
+
+
+
+2)Hvis listen i utgangspunktet var mye lengere kunne man fått listen til å presentere seg med flere kolonner bortover(vertikalt) eller så kunne man ha en dropdown i en dropdownliste også. Fungerer best med at man får flere kolonner bortover og kommer i rekkefulgt liste
+
+3)Wikipedie har brukt en teknikk at de er sortert i en uordnet liste. Men alle navnene er sortert i en alfabetisk rekkefølge, de bruker også bare en farge(sort). Wikipedia har benyttet HTML-teknikken som gjør at de blir sortert i en uordnet liste såkalt <ul> og <li>, og de har sortert språkene alfabetisk og brukt bare én farge. Synes det er oversiktlig men kunne være litt mer oversiktlig. 
+
+
+4) Div er en blokkerings element noe som gjør at det blir en avsnitt, mens en span er en inline element, skifter ikke engang linje det skrives på samme linje. 
+
+
+5) Problemet er at man må aktivere rullegardinen og trykke på den første i lista for å få den valgt. En problemløsning kan være at man har en tom select altså at det ikke står noe der. Eller kan man ha en vanlig tekst som "velg her" og ha den som verdi 0. 
+
+referanser:
+0:http://w3schools.com/js/js_intro.asp sist lastet opp: 10.09.2013 kl.10.25

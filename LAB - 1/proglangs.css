@@ -1,0 +1,85 @@
+   
+   /*CSS til programmeringsspråk- Body,Header og listen. Skrift og farger*/
+   
+    /*Fargen til siden(bakgrunn)*/
+   body
+	{
+	  Background-color:#00FFFF;
+	  text-align:center;
+	}
+	 /*Header med farge*/
+	h1
+	{
+	  color:#00ff00;
+  Font-family:Georgia,Helvetica,Lucida Sans;
+	  
+	  /*Fjerning av bullets*/
+	  }
+	  ul
+	  {
+	  list-style-type: none;
+	  }
+	  
+	   /*Forskjellige farger til klassene(programmeringsspråk)*/
+	  .css1
+	  {
+	    color:#0000FF;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }
+	    .css2
+	    {
+	    color:#FFE4C4;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }
+	    .css3
+	    {
+	    color:#FFF8DC;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }
+	    .css4
+	    {
+	    color:#FF8C00
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }
+	    .css5
+	    {
+	    color:#D02090;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }
+	    .css6
+	    {
+	    color:#D15FEE;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }
+	    .css7
+	    {
+	    color:#E35152;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }
+	    .css8
+	    {
+	    color:#FF8C00;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }
+	    .css9
+	    {
+	    color:#FF69B4;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }
+	    .css10
+	    {
+	    color:#DB2645;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	   
+	   }
+	    .css11
+	    {
+	    color:#CD7054;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+   
+	    }
+	    .css12
+	    {
+	    color:#B8860B;
+	    Font-family:Georgia,Helvetica,Lucida Sans;
+	    }

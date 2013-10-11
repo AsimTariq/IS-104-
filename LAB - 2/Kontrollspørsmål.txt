@@ -1,0 +1,7 @@
+LAB2 Kontrollspørsmål:
+
+MVC:
+
+-Modell: Selve HTML-dokumentet hvor dataene ligger er selve modellen
+-View: Css filen er delen hvordan websiden skal se ut, den forandrer stilen i html dokumentet
+-Control: Kontrollen i denne webapplikasjonen er selve javascript hvor brukeren får en melding.
